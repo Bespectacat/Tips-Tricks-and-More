@@ -151,3 +151,4 @@ It may take a while to run, depending on how large your filesystem is, but after
 - Security cautions and advice
 - MFA decryption with something like a hardware key (Yubikey)
 - Ridding of old home folder if everything is all Good and Cool
+- How-to's but with CLI (if running a minimal system or a system that can't run GDU)
